@@ -6,8 +6,3 @@
     * Redux
     * Chart.js
     * RapidAPI
-
-
-## FEATURES
-
-
